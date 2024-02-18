@@ -18,6 +18,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "gatsby-node-helpers": "^0.3.0",
+    "gatsby-source-filesystem": "^5.13.1",
     "querystring": "^0.2.0"
   },
   "devDependencies": {
